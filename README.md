@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm Bjoreno Degens, a passionate programmer with a focus on backend development and application design. My coding journey involves mastery in PHP, SQL, and backend technologies such as Java and C#. While I'm well-versed in HTML, CSS (including Bootstrap), and JavaScript for frontend needs, my true excitement lies in building robust databases and crafting innovative server-side solutions. 🚀
+👋 Hi there! I'm Bjoreno Degens, a passionate programmer with a focus on backend development and application design. My coding journey involves mastery in PHP, SQL, and backend technologies such as Java and C#. While I'm well-versed in HTML, CSS (including Bootstrap)for frontend needs. 🚀
 
 🌐 Check out my projects below and explore the code that powers them. Always open to collaboration and learning from the vast GitHub community. Let's code something amazing together! 💻
 
