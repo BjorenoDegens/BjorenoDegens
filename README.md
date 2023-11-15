@@ -1,4 +1,5 @@
-👋 Backend dev here! PHP, SQL, Java, C#. Frontend with HTML, CSS (Bootstrap). Check my GitHub projects. Let's code together! 💻🚀
+
+👋 Hey, I'm Bjoreno Degens! PHP, SQL, Java, C#. Frontend with HTML, CSS (Bootstrap). Check my GitHub projects. Let's code together! 💻🚀
 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bjoreno-degens-8ba9a01a6/)
 <!--
